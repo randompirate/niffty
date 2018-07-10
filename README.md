@@ -1,4 +1,4 @@
-#niFFTy
+# niFFTy
 Adventures in the non-uniform fourier space (NFFT).
 Or more generally some lab experiments with power spectra
 
